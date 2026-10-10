@@ -1,7 +1,7 @@
 const http = require("http");
 const fs = require("fs/promises");
 
-class Burger {
+class Ecity {
     constructor() {
         this.server = http.createServer();
         this.urlMethodPathMap = {}
@@ -103,4 +103,4 @@ http.ServerResponse.prototype.send = function(body) {
 
 
 
-module.exports = Burger;
+module.exports = Ecity;
