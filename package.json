@@ -1,0 +1,20 @@
+{
+  "name": "@yasharya/ecity",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/yasharya2901/ecity#readme",
+  "bugs": {
+    "url": "https://github.com/yasharya2901/ecity/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasharya2901/ecity.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "ecity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
